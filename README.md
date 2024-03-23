@@ -1,2 +1,1 @@
-# Ed-Tech-Platform 
- full stack 
+# StudyNotion Edtech Project
